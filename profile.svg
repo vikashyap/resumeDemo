@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="112px" viewBox="0 0 70 112" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 12</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M33,40.9992 C23.626,40.9992 16,33.3732 16,23.9992 C16,14.6252 23.626,6.9992 33,6.9992 C42.374,6.9992 50,14.6252 50,23.9992 C50,33.3732 42.374,40.9992 33,40.9992 M45.298,43.4012 C51.718,39.3172 56,32.1572 56,23.9992 C56,11.3172 45.682,0.9992 33,0.9992 C20.318,0.9992 10,11.3172 10,23.9992 C10,32.1572 14.282,39.3172 20.702,43.4012 C8.584,48.2912 0,60.1532 0,73.9992 L0,103.9992 C0,105.6572 1.344,106.9992 3,106.9992 C4.656,106.9992 6,105.6572 6,103.9992 L6,73.9992 C6,59.1132 18.112,46.9992 33,46.9992 C47.888,46.9992 60,59.1132 60,73.9992 L60,103.9992 C60,105.6572 61.344,106.9992 63,106.9992 C64.656,106.9992 66,105.6572 66,103.9992 L66,73.9992 C66,60.1532 57.416,48.2912 45.298,43.4012" id="path-1"></path>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.24 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Tiles" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="My-Profile---1440" transform="translate(-131.000000, -15.000000)">
+            <g id="Group-12" transform="translate(133.000000, 16.000000)">
+                <g id="Page-1">
+                    <g id="Fill-1">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
